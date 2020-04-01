@@ -13,3 +13,4 @@ You can highlight as *italic*, **bold**, ~~strike through~~ types.
 You can also include images:
 
 ![an image](https://static01.nyt.com/images/2020/04/01/business/01screentime/31screentime-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+> Image from NYTimes
