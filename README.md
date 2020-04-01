@@ -21,3 +21,7 @@ You can also include images:
 | orange | orange |
 | carrots | orange |
 | stawberries | red |
+
+```
+This is block without any formatting
+```
