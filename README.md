@@ -16,7 +16,7 @@ You can also include images:
 > Image from NYTimes
 
 | Vegetable | Color |
-|-------|-------|
+|:-------|:-------|
 | apple | depends |
 | orange | orange |
 | carrots | orange |
